@@ -50,7 +50,7 @@
 
 
 -- ================================
--- 🟡 RETAINED VS NON-RETAINED ANALYSIS
+--  RETAINED VS NON-RETAINED ANALYSIS
 -- ================================
 
 --  Compare the average order value between retained and non-retained customers.
@@ -99,7 +99,7 @@
 
 
 -- ================================
--- 🟠 BEHAVIORAL ANALYSIS
+--  BEHAVIORAL ANALYSIS
 -- ================================
 
 -- Calculate the retention rate among customers with above-average order frequency.
@@ -153,7 +153,7 @@
        order by signup_month;
 
 -- ================================
--- 🔵 ADVANCED & ANALYTICAL INSIGHTS
+--  ADVANCED & ANALYTICAL INSIGHTS
 -- ================================
 
 --  Identify the top 10 retained customers based on estimated revenue (avgorder × ordfreq).
